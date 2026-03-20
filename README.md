@@ -1,2 +1,3 @@
-# micro-music-streaming-2dr4
-Automated issue comment bot repository
+# Micro Music Streaming 2Dr4
+
+Automated issue comment bot repository.
